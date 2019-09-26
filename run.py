@@ -1,6 +1,8 @@
 from vehicles_class import *
 from car_class import *
 from bike_class import *
+from car_class2 import *
+from vehicle_class2 import *
 
 print("------------ VEHICLE TEST --------")
 
@@ -34,5 +36,12 @@ bike_1 = Bike(2, 1, 'Black and Yellow', '2 years', 6, "Normal", "No basket")
 
 print(bike_1.year)
 
+print('\n')
+#-----------------------------------------------------------------
 
+print("Playing with encapsulation ")
+print(car_example.wheels)
+
+car_example._accidents = 100
+print(car_example.__miles)
 

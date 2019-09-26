@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91f7bf80-1126-4d7e-b574-57f1eb7fdd6d" name="Default Changelist" comment="" />
+    <list default="true" id="91f7bf80-1126-4d7e-b574-57f1eb7fdd6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/car_class2.py" beforeDir="false" afterPath="$PROJECT_DIR$/car_class2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +24,9 @@
   <component name="ProjectId" id="1RN6G4TIgBuSvhaCwGBfukALIkc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eng42_oop_basics/README.md" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.car_class2">
+  <component name="RunManager" selected="Python.run">
     <configuration name="car_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="eng_42_oop_cars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,10 +127,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.car_class2" />
-        <item itemvalue="Python.vehicle_class2" />
         <item itemvalue="Python.run" />
         <item itemvalue="Python.car_class" />
+        <item itemvalue="Python.car_class2" />
+        <item itemvalue="Python.vehicle_class2" />
       </list>
     </recent_temporary>
   </component>
